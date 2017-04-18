@@ -6,7 +6,7 @@
     "sfz",
     "sforzando"
   ],
-  "repository": "https://github.com/evestera/language-sfz",
+  "repository": "https://github.com/evestera/atom-language-sfz",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
