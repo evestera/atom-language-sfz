@@ -1,8 +1,11 @@
 {
   "name": "language-sfz",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds syntax highlighting rudimentary autocomplete for SFZ in Atom",
-  "keywords": ["sfz", "sforzando"],
+  "keywords": [
+    "sfz",
+    "sforzando"
+  ],
   "repository": "https://github.com/evestera/atom-language-sfz",
   "license": "Unlicense",
   "engines": {
